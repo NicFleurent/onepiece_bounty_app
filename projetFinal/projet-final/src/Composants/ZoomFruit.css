@@ -1,0 +1,12 @@
+#titre{
+    font-size: 3em;
+    font-family: GreatVibes;
+}
+
+@media screen  and (max-width: 576px){
+        
+    .imageFruit{
+        max-width: 350px;
+    }
+  
+  }

@@ -1,0 +1,13 @@
+.barreNavigation{
+    position: fixed;
+    top: 0;
+}
+
+.sansLigne{
+    color: white;
+    text-decoration-line: none;
+}
+
+.sansLigne:hover{
+    color: white;
+}

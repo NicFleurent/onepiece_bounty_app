@@ -1,0 +1,9 @@
+.fruitHover{
+    width: 200px;
+    transition: 1s;
+}
+
+.fruitHover:hover{
+    width: 250px;
+    transition: 1s;
+}
